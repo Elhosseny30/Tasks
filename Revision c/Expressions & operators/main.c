@@ -16,6 +16,6 @@ int main()
     printf("Total Zero Bits is %i\n", (8 * sizeof(type)) - *ptr_bit);
     printf("Total One Bits is %i\n",  *ptr_bit);
 
-   printf("kaka");
+   
     return 0;
 }
